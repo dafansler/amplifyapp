@@ -27,7 +27,9 @@ const awsmobile = {
     "aws_appsync_graphqlEndpoint": "https://zpbhx4f7gjg57jqu2yhqgbbjkm.appsync-api.us-east-1.amazonaws.com/graphql",
     "aws_appsync_region": "us-east-1",
     "aws_appsync_authenticationType": "API_KEY",
-    "aws_appsync_apiKey": "da2-lrjy5r277rewjpqjjtvtetnqye"
+    "aws_appsync_apiKey": "da2-lrjy5r277rewjpqjjtvtetnqye",
+    "aws_user_files_s3_bucket": "amplify-app-imagestorage01459-staging",
+    "aws_user_files_s3_bucket_region": "us-east-1"
 };
 
 
